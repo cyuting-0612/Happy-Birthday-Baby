@@ -196,7 +196,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('');
+    background-image:url('https://github.com/cyt940612/resume/raw/master/static/image/me.jpg');
     background-size: 120%;
     background-position:center top;
     border-radius:50%;
