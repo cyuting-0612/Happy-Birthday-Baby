@@ -187,13 +187,18 @@ progress::-moz-progress-value {
     width: 120px;
 }
 
+.left-label1 {
+    display: inline-block;
+    width: 100px;
+}
+
 .portrait {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://github.com/cyt940612/resume/raw/master/static/image/me.jpg');
     background-size: 120%;
-    background-position:center;
+    background-position:center top;
     border-radius:50%;
     border:5px solid #607d8b;
     width:160px;
@@ -286,5 +291,4 @@ ul li{
     cursor: pointer;
     
 }
-
 
